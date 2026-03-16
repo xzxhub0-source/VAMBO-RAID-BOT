@@ -1,7 +1,6 @@
 {
   "name": "discord-raid-selfbot",
   "version": "1.0.0",
-  "description": "Educational Discord selfbot example",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
